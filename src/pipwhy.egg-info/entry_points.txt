@@ -1,0 +1,2 @@
+[console_scripts]
+pipwhy = pipwhy.cli:main

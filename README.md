@@ -31,7 +31,7 @@ CONFLICT: no version of 'langchain-core' satisfies everything below
 ## Install
 
 ```bash
-pip install pipwhy
+pip install git+https://github.com/SIDDARTHAREDDY8/pipwhy.git
 ```
 
 Zero dependencies. Python 3.9+.
